@@ -1,4 +1,4 @@
-China RGB-LED-Matirx Display
+China RGB-LED-Matrix Display
 ==============
 
 Use cheap chines LED RGB modules to control the PWM of each individual LED by a CortexM4. Normally a FPGA is required for this work load. But you could also use the CortexM external parallel memory interface to get fast refresh rates.
